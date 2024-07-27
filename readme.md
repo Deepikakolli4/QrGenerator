@@ -82,7 +82,7 @@ Open a pull request.
 
 ## Images
 
-![qr](https://github.com/user-attachments/assets/3f05bfe1-bc05-4edb-a643-8ccc09608fac)
+![qr](https://github.com/user-attachments/assets/31248a74-3b75-4583-8037-11f9e75b6295)
 
 ##Video
 
